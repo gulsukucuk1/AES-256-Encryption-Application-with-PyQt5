@@ -30,7 +30,7 @@ AES_Encryption/
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/AES-File-Vault.git
+git clone https://github.com/gulsukucuk1/AES-256-Encryption-Application-with-PyQt5
 Create and activate a virtual environment:
 
 Bash
